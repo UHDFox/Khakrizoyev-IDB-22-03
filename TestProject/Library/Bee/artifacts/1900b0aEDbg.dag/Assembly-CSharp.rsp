@@ -354,6 +354,9 @@
 -analyzer:"D:/progs/Unity Hub/2022.3.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/buttonScript.cs"
 "Assets/ButtonScript1.cs"
+"Assets/CapsuleCollisionScript.cs"
+"Assets/HPCounterScript.cs"
+"Assets/ResetPosScript.cs"
 "Assets/testScript.cs"
 -langversion:9.0
 
