@@ -58,9 +58,12 @@
     <Analyzer Include="D:\progs\Unity Hub\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ResetPosScript.cs" />
     <Compile Include="Assets\ButtonScript1.cs" />
+    <Compile Include="Assets\HPCounterScript.cs" />
     <Compile Include="Assets\buttonScript.cs" />
     <Compile Include="Assets\testScript.cs" />
+    <Compile Include="Assets\CapsuleCollisionScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
