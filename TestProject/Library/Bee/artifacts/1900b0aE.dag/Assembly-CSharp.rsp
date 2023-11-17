@@ -355,6 +355,8 @@
 "Assets/buttonScript.cs"
 "Assets/ButtonScript1.cs"
 "Assets/CapsuleCollisionScript.cs"
+"Assets/HPCounterScript.cs"
+"Assets/ResetPosScript.cs"
 "Assets/testScript.cs"
 -langversion:9.0
 
